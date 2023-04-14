@@ -11,7 +11,18 @@
 <div size='20px'> Hi! My name is Thanh Nguyen or you could call me Kobe Nguyen. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> CodeceptJS Consultant </h2>
+  A CodeceptJS consultant who specializes in using the CodeceptJS testing framework to automate software testing processes. CodeceptJS is a modern, versatile and easy-to-use testing framework that allows QA engineers to write tests in JavaScript/Typecript and execute them with beautiful generated reports like Allure, etc.
+
+As a CodeceptJS consultant, I have extensive experience in writing and executing tests using CodeceptJS. They can help your organization to automate functional, acceptance, and end-to-end tests for web applications, APIs, and mobile apps. They can also provide guidance on best practices, help optimize existing test suites, and integrate CodeceptJS with other tools in your testing pipeline.
+
+The hourly rate for a CodeceptJS consultant with a rate of 40 euros is competitive in the market, given their expertise and experience. This rate may vary based on the complexity of the project, the duration of the engagement, and other factors such as the consultant's availability and location.
+
+Overall, a CodeceptJS consultant can bring significant value to your QA team by accelerating test automation, reducing manual testing efforts, improving test coverage, and increasing the overall quality of your software products.
+
+Reach me via kobenguyent@gmail.com
+
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
