@@ -20,6 +20,13 @@ The hourly rate for a CodeceptJS consultant with a rate of 40 euros is competiti
 
 Overall, a CodeceptJS consultant can bring significant value to your QA team by accelerating test automation, reducing manual testing efforts, improving test coverage, and increasing the overall quality of your software products.
 
+Some of my codeceptjs helpers in my collection that you would love them:
+- [Testrail reporter](https://github.com/kobenguyent/codeceptjs-testrail)
+- [Performance Web Tests with Lighthouse](https://github.com/kobenguyent/codeceptjs-lighthouse-helper)
+- [CodeceptJS Chrome extension](https://chrome.google.com/webstore/detail/codeceptjs-chrome-recorde/jgdcobhagdbipacidhfnoaccgjooebam)
+
+and many more...
+
 Reach me via kobenguyent@gmail.com
 
 <h2> About Me </h2>
