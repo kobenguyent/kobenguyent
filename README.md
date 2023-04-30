@@ -5,7 +5,7 @@
 <h1> Hello Fellows! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kobenguyent.kobenguyent)
+<img src="https://komarev.com/ghpvc/?username=kobenguyent&label=Profile%20views&color=0e75b6&style=flat" alt="kobenguyent"/>
 
 </p>
 <div size='20px'> Hi! My name is Thanh Nguyen or you could call me Kobe Nguyen. Thank You for taking the time to view my GitHub Profile :smile: 
