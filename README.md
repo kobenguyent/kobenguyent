@@ -68,7 +68,7 @@ Reach me via kobenguyent@gmail.com
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kobenguyent&count_private=true&show_icons=true&theme=solarized-light" />
 </a>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kobenguyent)(https://github.com/kobenguyent)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kobenguyent)(https://github.com/kobenguyent)
 
 
 
