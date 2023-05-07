@@ -60,12 +60,11 @@ Reach me via kobenguyent@gmail.com
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/kobenguyent/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kobenguyent&count_private=true&show_icons=true&theme=solarized-light" />
 </a>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kobenguyent)(https://github.com/kobenguyent)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kobenguyent)
 
 
 <br>
