@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://website-static.testsigma.com/assets/guides/automated-testing/automated-testing.svg" alt="cover" />
-</div>
-
 <h1> Hello Fellows! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
