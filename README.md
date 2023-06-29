@@ -1,14 +1,14 @@
-<h1> Hello Fellows! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellows!</h1>
 <p align='center'>
 
 <img src="https://komarev.com/ghpvc/?username=kobenguyent&label=Profile%20views&color=0e75b6&style=flat" alt="kobenguyent"/>
 
 </p>
-<div size='20px'> Hi! My name is Thanh Nguyen or you could call me Kobe Nguyen. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Thanh Nguyen or you could call me Kobe T. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> CodeceptJS Consultant </h2>
-  A CodeceptJS consultant who specializes in using the CodeceptJS testing framework to automate software testing processes. CodeceptJS is a modern, versatile and easy-to-use testing framework that allows QA engineers to write tests in JavaScript/Typecript and execute them with beautiful generated reports like Allure, etc.
+  Specializing in using the CodeceptJS testing framework to automate software testing processes. CodeceptJS is a modern, versatile and easy-to-use testing framework that allows QA engineers to write tests in JavaScript/Typecript and execute them with beautiful generated reports like Allure, etc.
 
 As a CodeceptJS consultant, I have extensive experience in writing and executing tests using CodeceptJS. They can help your organization to automate functional, acceptance, and end-to-end tests for web applications, APIs, and mobile apps. They can also provide guidance on best practices, help optimize existing test suites, and integrate CodeceptJS with other tools in your testing pipeline.
 
@@ -39,7 +39,7 @@ Reach me via kobenguyent@gmail.com
 - 💬 Talk to me about JavaScript, Typescript, Automated Tests... 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=javascript&sort="> <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
@@ -50,21 +50,9 @@ Reach me via kobenguyent@gmail.com
 <a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=go&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg'> </a>
 <a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=cypress&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg'> </a>
 <a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
+<a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 
 
 <h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/kobenguyent'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/kobenguyent'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/kobenguyent'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-<a href="https://github.com/kobenguyent/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kobenguyent&count_private=true&show_icons=true&theme=solarized-light" />
-</a>
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kobenguyent)
-
-
-<br>
