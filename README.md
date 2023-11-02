@@ -4,12 +4,13 @@
 <img src="https://komarev.com/ghpvc/?username=kobenguyent&label=Profile%20views&color=0e75b6&style=flat" alt="kobenguyent"/>
 
 </p>
-<div size='20px'> Hi! My name is Thanh Nguyen or you could call me Kobe T. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> CodeceptJS Contributions </h2>
 Some of my codeceptjs helpers in my collection that you would love them:
 
+- [CodeceptJS ReportPortal Integration](https://github.com/kobenguyent/codeceptjs-rphelper)
 - [Testrail reporter](https://github.com/kobenguyent/codeceptjs-testrail)
 - [Performance Web Tests with Lighthouse](https://github.com/kobenguyent/codeceptjs-lighthouse-helper)
 - [CodeceptJS Chrome extension](https://chrome.google.com/webstore/detail/codeceptjs-chrome-recorde/jgdcobhagdbipacidhfnoaccgjooebam)
