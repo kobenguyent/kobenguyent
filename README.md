@@ -19,10 +19,9 @@ and many more...
 
 📧 kobenguyent@gmail.com
 
-<h2> something about me </h2>
+<h2> About me... </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
 
 - 🔭 Web test automation with CodeceptJS
 
@@ -46,6 +45,9 @@ and many more...
 <a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/kobenguyent?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 
+<h2> Donations </h2>
+
+I work on my works mostly in my own spare time. If you've found my works useful and would like to help feed me and fund continued development and new features, please donate via <a href= 'https://paypal.me/peternguyentr?country.x=DE&locale.x=en_US'> Paypal </a> or <a href='https://www.buymeacoffee.com/peternguyew'>buy me some coffee</a>
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/kobenguyent'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
