@@ -13,7 +13,7 @@ Some in my collection that you'd love them already:
 - [CodeceptJS ReportPortal Integration](https://github.com/kobenguyent/codeceptjs-rphelper) 
 - [Testrail reporter](https://github.com/kobenguyent/codeceptjs-testrail)
 - [Performance Web Tests with Lighthouse](https://github.com/kobenguyent/codeceptjs-lighthouse-helper)
-- [CodeceptJS Chrome extension](https://chrome.google.com/webstore/detail/codeceptjs-chrome-recorde/jgdcobhagdbipacidhfnoaccgjooebam) - recordsand generates CodeceptJS e2e tests in your Chrome. 
+- [CodeceptJS Chrome extension](https://chrome.google.com/webstore/detail/codeceptjs-chrome-recorde/jgdcobhagdbipacidhfnoaccgjooebam) - records and generates CodeceptJS e2e tests in your Chrome. 
 
 and many more...
 
@@ -23,7 +23,7 @@ and many more...
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
-- 🔭 Web test automation with CodeceptJS
+- 🔭 Test automation
 
 - 🌱 Devops stuff 
 
