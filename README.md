@@ -55,6 +55,22 @@ I love contributing to open-source projects! Here are some of my favorites that 
 
 ---
 
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kobenguyent&show_icons=true&theme=radical" alt="kobenguyent GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobenguyent&theme=radical" alt="kobenguyent GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobenguyent&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 <h2>☕️ Support My Work</h2>
 
 I dedicate my free time to developing and maintaining open-source projects. If you find my work helpful and would like to support future development, consider buying me a coffee or donating via PayPal:
@@ -76,4 +92,3 @@ I dedicate my free time to developing and maintaining open-source projects. If y
 Feel free to reach out if you have any questions or just want to connect!
 
 ---
-
