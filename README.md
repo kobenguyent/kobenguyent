@@ -14,6 +14,7 @@
 
 I love contributing to open-source projects! Here are some of my favorites that you might find useful:
 
+- [QA Utils](https://kobenguyent.github.io/qa-utils/#/) - handy utils for QA Engineer
 - [**CodeceptJS ReportPortal Integration**](https://github.com/kobenguyent/codeceptjs-rphelper) 
 - [**Testrail Reporter**](https://github.com/kobenguyent/codeceptjs-testrail)
 - [**Performance Web Tests with Lighthouse**](https://github.com/kobenguyent/codeceptjs-lighthouse-helper)
