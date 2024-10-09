@@ -12,6 +12,8 @@
 
 <h2>🚀 Open Source Contributor</h2>
 
+[![An image of @kobenguyent's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kobenguyent)](https://holopin.io/@kobenguyent)
+
 I love contributing to open-source projects! Here are some of my favorites that you might find useful:
 
 - [QA Utils](https://kobenguyent.github.io/qa-utils/#/) - handy utils for QA Engineer
