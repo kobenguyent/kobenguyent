@@ -1,71 +1,66 @@
-<h1 align="center">Hey there! 👋</h1>
 
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=kobenguyent&label=Profile%20views&color=0e75b6&style=flat" alt="kobenguyent"/>
-</p>
-
-<div align="center" style="font-size: 20px;"> 
-  Hi from somewhere in the world 😊 
-</div>
-
----
-
-<h2>🚀 Open Source Contributor</h2>
-
-[![An image of @kobenguyent's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kobenguyent)](https://holopin.io/@kobenguyent)
-
-I love contributing to open-source projects! Here are some of my favorites that you might find useful:
-
-- [QA Utils](https://kobenguyent.github.io/qa-utils/#/) - handy utils for QA Engineer
-- [**CodeceptJS ReportPortal Integration**](https://github.com/kobenguyent/codeceptjs-rphelper) 
-- [**Testrail Reporter**](https://github.com/kobenguyent/codeceptjs-testrail)
-- [**Performance Web Tests with Lighthouse**](https://github.com/kobenguyent/codeceptjs-lighthouse-helper)
-- [**CodeceptJS Chrome Extension**](https://chrome.google.com/webstore/detail/codeceptjs-chrome-recorde/jgdcobhagdbipacidhfnoaccgjooebam) - records and generates CodeceptJS e2e tests in your Chrome. 
-
-...and many more!
-
-📧 **Email:** kobenguyent@gmail.com
-
----
-
-<h2>🌟 About Me</h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-- 🔭 **Test automation enthusiast**
-- 🌱 **Exploring DevOps technologies**
-- 👯 **Open to collaboration on interesting projects**
-- 💬 **Let's talk about JavaScript, TypeScript, Test Automation, and more!**
-
----
-
-<h2>💻 Skills</h2>
+<h1 align="center">Welcome! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=javascript&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' alt="JavaScript"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=html&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg' alt="HTML"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=css&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg' alt="CSS"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=typescript&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg' alt="TypeScript"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=aws&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg' alt="AWS"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=github&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' alt="GitHub"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=vuejs&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg' alt="Vue.js"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=nodejs&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg' alt="Node.js"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=go&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg' alt="Go"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=cypress&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg' alt="Cypress"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=docker&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg' alt="Docker"> </a>
-  <a href="https://github.com/kobenguyent?tab=repositories&q=&type=&language=reactjs&sort="> <img width='32px' height='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' alt="React.js"> </a>
+  <img src="https://komarev.com/ghpvc/?username=kobenguyent&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center" style="font-size: 20px;"> 
+  Greetings from somewhere in the world! 😊 
 </p>
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 🚀 **Open Source Enthusiast**
+
+[![Holopin Badges](https://holopin.me/kobenguyent)](https://holopin.io/@kobenguyent)
+
+I’m passionate about contributing to open-source projects and building tools to make development and testing easier. Here are some of my favorite contributions:  
+
+- **[QA Utils](https://kobenguyent.github.io/qa-utils/#/)**: Handy utilities for QA Engineers.  
+- **[CodeceptJS ReportPortal Integration](https://github.com/kobenguyent/codeceptjs-rphelper)**: Seamless integration of ReportPortal with CodeceptJS.  
+- **[Testrail Reporter](https://github.com/kobenguyent/codeceptjs-testrail)**: Efficient reporting for TestRail.  
+- **[Performance Web Tests with Lighthouse](https://github.com/kobenguyent/codeceptjs-lighthouse-helper)**: Web performance testing using Lighthouse.  
+- **[CodeceptJS Chrome Extension](https://chrome.google.com/webstore/detail/codeceptjs-chrome-recorde/jgdcobhagdbipacidhfnoaccgjooebam)**: Record and generate CodeceptJS E2E tests directly in Chrome.  
+
+📧 **Feel free to reach out via email:** [kobenguyent@gmail.com](mailto:kobenguyent@gmail.com)
+
+---
+
+## 🌟 **About Me**
+
+<img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+
+- 🔭 **Focused on Test Automation**: Creating robust solutions for quality assurance.  
+- 🌱 **Diving into DevOps**: Exploring cloud technologies and CI/CD pipelines.  
+- 👯 **Open to Collaborations**: Let’s work on innovative and impactful projects.  
+- 💬 **Topics I Love Discussing**: JavaScript, TypeScript, Test Automation, and more!  
+
+---
+
+## 💻 **Tech Stack**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobenguyent&show_icons=true&theme=radical" alt="kobenguyent GitHub stats" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" alt="Vue.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg" alt="Cypress" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg" alt="Go" width="40" height="40" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kobenguyent&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobenguyent&theme=radical" alt="kobenguyent GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobenguyent&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -74,24 +69,24 @@ I love contributing to open-source projects! Here are some of my favorites that 
 
 ---
 
-<h2>☕️ Support My Work</h2>
+## ☕️ **Support My Work**
 
-I dedicate my free time to developing and maintaining open-source projects. If you find my work helpful and would like to support future development, consider buying me a coffee or donating via PayPal:
+I’m committed to advancing open-source development. If you’d like to support my efforts, consider buying me a coffee or donating via PayPal:
 
-- <a href='https://paypal.me/peternguyentr?country.x=DE&locale.x=en_US'>**PayPal**</a>
-- <a href='https://www.buymeacoffee.com/peternguyew'>**Buy Me a Coffee**</a>
+- [**PayPal**](https://paypal.me/peternguyentr?country.x=DE&locale.x=en_US)  
+- [**Buy Me a Coffee**](https://www.buymeacoffee.com/peternguyew)
 
 ---
 
-<h2>🔗 Connect with Me</h2>
+## 🔗 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kobenguyent"> <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn"/> </a>
-  <a href="https://github.com/kobenguyent"> <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub"/> </a>
+  <a href="https://www.linkedin.com/in/kobenguyent"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://github.com/kobenguyent"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="GitHub" width="40" height="40" /></a>
 </p>
 
 ---
 
-Feel free to reach out if you have any questions or just want to connect!
+### Thank you for visiting my profile! Feel free to reach out if you have any questions or want to collaborate on exciting projects! 😊
 
 ---
