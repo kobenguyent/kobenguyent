@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 **Open Source Enthusiast**
+## 🚀 **My works**
 
 [![Holopin Badges](https://holopin.me/kobenguyent)](https://holopin.io/@kobenguyent)
 
@@ -27,51 +27,9 @@ I’m passionate about contributing to open-source projects and building tools t
 
 ---
 
-## 🌟 **About Me**
-
-<img width="55%" align="right" alt="GitHub" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-- 🔭 **Focused on Test Automation**: Creating robust solutions for quality assurance.  
-- 🌱 **Diving into DevOps**: Exploring cloud technologies and CI/CD pipelines.  
-- 👯 **Open to Collaborations**: Let’s work on innovative and impactful projects.  
-- 💬 **Topics I Love Discussing**: JavaScript, TypeScript, Test Automation, and more!  
-
----
-
-## 💻 **Tech Stack**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" alt="Vue.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" alt="React.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg" alt="Cypress" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/go.svg" alt="Go" width="40" height="40" />
-</p>
-
----
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kobenguyent&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kobenguyent&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobenguyent&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## ☕️ **Support My Work**
 
-I’m committed to advancing open-source development. If you’d like to support my efforts, consider buying me a coffee or donating via PayPal:
+If you’d like to support my efforts, consider buying me a coffee or donating via PayPal:
 
 - [**PayPal**](https://paypal.me/peternguyentr?country.x=DE&locale.x=en_US)  
 - [**Buy Me a Coffee**](https://www.buymeacoffee.com/peternguyew)
