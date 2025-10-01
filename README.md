@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue" alt="Open Source Enthusiast"/>
   <img src="https://img.shields.io/badge/QA%20Engineer-%23f8c102" alt="QA Engineer"/>
-  <img src="https://img.shields.io/badge/Automation-Expert-green" alt="Automation Expert"/>
+  <img src="https://img.shields.io/badge/Automation-Specialist-green" alt="Automation Specialist"/>
 </p>
 
 <p align="center" style="font-size: 20px;">
