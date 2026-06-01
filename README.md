@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td><a href="https://kobenguyent.github.io/qa-utils/#/"><img src="https://img.shields.io/badge/QA%20Utils-Live-blue?logo=githubpages"></a></td>
+    <td><a href="https://kobenguyent.github.io/qa-utils/#/"><img src="https://img.shields.io/badge/KobeanQA%20Utils-Live-blue?logo=githubpages"></a></td>
     <td>Handy utilities for QA Engineers</td>
   </tr>
   <tr>
