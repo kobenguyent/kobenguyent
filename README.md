@@ -49,7 +49,6 @@
 
 <p align="center">
   <a href="mailto:kobenguyent@gmail.com"><img src="https://img.shields.io/badge/Email-kobenguyent@gmail.com-blue?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/kobenguyent"><img src="https://img.shields.io/badge/LinkedIn-kobenguyent-blue?logo=linkedin"></a>
   <a href="https://paypal.me/peternguyentr?country.x=DE&locale.x=en_US"><img src="https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal"></a>
   <a href="https://www.buymeacoffee.com/peternguyew"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee"></a>
 </p>
